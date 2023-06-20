@@ -1,0 +1,22 @@
+Item,Qty,Reference(s),Value,LibPart,Datasheet,Source
+1,10,C1,10nF,Device:C,~,https://www.mouser.de/ProductDetail/Rubycon/25PX100MEFC5X11?qs=T3oQrply3y9zWTRI7MsQ3w%3D%3D
+2,20,"C2, C4, C8",100uF,Device:C_Polarized,~,https://www.mouser.de/ProductDetail/Rubycon/25PX100MEFC5X11?qs=T3oQrply3y9zWTRI7MsQ3w%3D%3D
+3,20,"C3, C5",10n,Device:C,~,https://www.mouser.de/ProductDetail/TDK/FG28C0G1H103JNT06?qs=qf2ddTMq67VeBEQaT0jB5A%3D%3D
+4,20,"C6, C7",20p,Device:C,~,https://www.mouser.de/ProductDetail/KEMET/C316C200KAG5TA?qs=sGAEpiMZZMuMW9TJLBQkXsCwpBVvUMY%2F30P7LFu3mdw%3D
+5,10,D1,LED,Device:LED,~,STOCK
+6,1,J4,USB_B,Connector:USB_B,~,STOCK
+7,10,"J5, J8, J11, J14, J17, J20, J23",WEO,Connector:Conn_01x01_Pin,~,https://www.buerklin.com/en/p/hirschmann-test-measurement/laboratory-connectors/pb-4-rt/35F236/
+8,10,"J6, J9, J12, J15, J18, J21, J24",REO,Connector:Conn_01x01_Pin,~,https://www.buerklin.com/en/p/hirschmann-test-measurement/laboratory-connectors/pb-4-rt/35F236/
+9,10,"J7, J10, J13, J16, J19, J22, J25",MGNDO,Connector:Conn_01x01_Pin,~,https://www.buerklin.com/en/p/hirschmann-test-measurement/laboratory-connectors/pb-4-sw/35F234/
+10,10,J29,Conn_01x04_Pin,Connector:Conn_01x04_Pin,~,STOCK
+11,20,"K1, K2, K3, K4, K5, K6, K7",EC2-5NU,Relay:EC2-5NU,https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf,https://www.mouser.de/ProductDetail/KEMET/EC2-5NU?qs=iaWy59%2Fd4KBsEXrvQOQZ4w%3D%3D
+12,20,"R1, R2",68R,Device:R,~,https://www.mouser.de/ProductDetail/YAGEO/MF0204FTE52-68R?qs=sGAEpiMZZMtlubZbdhIBIIX8I%252BX54ES3J9gzho%2FLS24%3D
+13,20,R3,1.2K,Device:R,~,https://www.mouser.de/ProductDetail/YAGEO/MFR-25FTF52-1K2?qs=sGAEpiMZZMtlubZbdhIBIGLlr6zM66%2FaLGM4WgZe2F8%3D
+14,20,R4,220R,Device:R,~,STOCK
+15,20,R5,1K,Device:R,~,STOCK
+16,10,U1,ULN2003A,Transistor_Array:ULN2003A,http://www.ti.com/lit/ds/symlink/uln2003a.pdf,https://www.mouser.de/ProductDetail/Texas-Instruments/ULN2003AN?qs=FOlmdCx%252BAA1wYQ1G8c8hpQ%3D%3D
+17,10,U2,74HC595,74xx:74HC595,http://www.ti.com/lit/ds/symlink/sn74hc595.pdf,https://www.mouser.de/ProductDetail/Texas-Instruments/CD74HC595E?qs=xFfolx0DHx1JFSNYY8Y%252Bcg%3D%3D
+18,5,U3,ATtiny424-SS,MCU_Microchip_ATtiny:ATtiny424-SS,https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny424-426-427-824-826-827-DataSheet-DS40002311A.pdf,https://www.mouser.de/ProductDetail/Microchip-Technology/ATTINY424-SSU?qs=pUKx8fyJudAN08X1dMxSgw%3D%3D
+19,1,U4,AZ1117-3.3,Regulator_Linear:AZ1117-3.3,https://www.diodes.com/assets/Datasheets/AZ1117.pdf,STOCK
+20,10,Y1,12M,Device:Crystal,~,https://www.mouser.de/ProductDetail/ECS/ECS-120-20-4X-EM?qs=Jm2GQyTW%2FbiJxG48ZscE4A%3D%3D
+21,10,,Vierkantmutter DIN562,,,https://online-schrauben.de/shop/Muttern/Vierkantmuttern/DIN-562-Vierkantmuttern-niedrige-Form/Edelstahl-Rostfrei-A2
